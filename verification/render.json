@@ -1,0 +1,12 @@
+{
+  "blender_version": "4.4.0",
+  "resolution": [
+    720,
+    720
+  ],
+  "fps": 24,
+  "frames": 144,
+  "duration_seconds": 6,
+  "render_elapsed_seconds": 30.68,
+  "measurement_scope": "Animation render only; not modeling, review, labor or total cost."
+}

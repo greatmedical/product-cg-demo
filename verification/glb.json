@@ -1,0 +1,41 @@
+{
+  "blender_version": "4.4.0",
+  "source_file": "product.glb",
+  "mesh_count": 4,
+  "mesh_names": [
+    "Champagne_Collar",
+    "Graphite_Lid",
+    "Jar_Body",
+    "Lid_Recess"
+  ],
+  "materials": [
+    "Champagne | brushed metallic trim",
+    "Graphite | satin cap",
+    "Ivory | satin ceramic-look polymer",
+    "Recess | dark gasket"
+  ],
+  "triangles": 9584,
+  "bounds_min": [
+    -0.05571126937866211,
+    -0.047238677740097046,
+    0.0
+  ],
+  "bounds_max": [
+    0.05571126937866211,
+    0.047238677740097046,
+    0.11240001022815704
+  ],
+  "cameras": 0,
+  "lights": 0,
+  "checks_passed": [
+    "imports_in_blender_4_4",
+    "mesh_present",
+    "materials_present",
+    "no_studio_camera_or_light"
+  ],
+  "not_tested": [
+    "Unreal Engine import",
+    "manufacturing accuracy",
+    "customer reference fidelity"
+  ]
+}
