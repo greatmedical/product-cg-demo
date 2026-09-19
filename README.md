@@ -3,7 +3,7 @@
 単純な容器の商品画像と短い回転動画を、同じ3Dモデルから制作する見本です。
 架空の無地容器をBlenderで制作しました。AIを用いて制作コードを作成しています。実在のお客様への納品例・実商品の撮影写真ではありません。
 
-**[配色・ラベルを無料で試す](https://great-medical-creative.huangchechuan.chatgpt.site/container-lab)** · **[商品CGの制作内容を見る](https://great-medical-creative.huangchechuan.chatgpt.site/#product-cg)** · **[ココナラで購入前相談](https://coconala.com/services/4406061)**
+**[3D展示デモを見る](https://great-medical-creative.huangchechuan.chatgpt.site/showroom)** · **[配色・ラベルを無料で試す](https://great-medical-creative.huangchechuan.chatgpt.site/container-lab)** · **[商品CGの制作内容を見る](https://great-medical-creative.huangchechuan.chatgpt.site/#product-cg)** · **[ココナラで購入前相談](https://coconala.com/services/4406061)**
 
 ![無地容器の商品CG見本](samples/hero.png)
 
@@ -43,6 +43,18 @@
 直接相談の見積目安とココナラのパッケージは別の受付条件です。ココナラで開始したご相談・取引は同サービス内で続けます。
 
 [他の制作サービスを見る](https://note.com/byolux/n/ne2ca9fd08556)
+
+## 3D商品展示ページの制作相談
+
+**[3種類の容器を立体的な展示で見る →](https://great-medical-creative.huangchechuan.chatgpt.site/showroom)**
+
+商品を選び、角度を変えて外観を見られる自主制作デモです。架空の角丸ボトル、スリムボトル、ラウンドジャーを展示しています。実在商品の販売店舗や、お客様の導入実績ではありません。
+
+自社商品向けの展示ページ制作は**個別見積**です。掲載点数、使用できるモデル・画像、必要な操作、掲載先を確認して、制作範囲と納期を決めます。新規モデル制作、EC決済、既存サイトへの組み込み、保守は内容に応じて別途見積となります。上記の静止画・動画CG制作とは別サービスで、既存の77,000円／80,000円の料金には含まれません。
+
+[展示ページについて直接相談する →](https://great-medical-creative.huangchechuan.chatgpt.site/#contact)（「その他」を選び、「3D展示ページ」と用途をご記入ください。）
+
+公開本文・モデル配信は確認しています。ブラウザでの描画・操作の実機試験は未実施で、制作を受注する際は対象端末と受入条件を定めて検証します。
 
 ## 容器の配色を無料で試す
 
